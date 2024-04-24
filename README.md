@@ -1,4 +1,4 @@
-# Hello! I'm Jan.
+# Hello! I'm Jan. 
 
 ## 🌱 I currently live in Poland, and I am a software developer 🌱 
 I have been programming for over 3 years now, and recently, I have discovered flutter and dart, which I am currently learning. Programming has been slowly becoming my hobby, and I've been passionate about learning new languages and technologies. After next year's graduation I will be looking forward to becoming a junior developer.
