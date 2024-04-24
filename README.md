@@ -1,6 +1,6 @@
 # Hello! I'm Jan.
 
-## 🌱 I currently live in Poland and I am a software developer 🌱 
+## 🌱 I currently live in Poland, and I am a software developer 🌱 
 I have been programming for over 3 years now, and recently, I have discovered flutter and dart, which I am currently learning. Programming has been slowly becoming my hobby, and I've been passionate about learning new languages and technologies. After next year's graduation I will be looking forward to becoming a junior developer.
 
 ## 📊 Current GitHub Stats 📊
@@ -14,18 +14,18 @@ I have been programming for over 3 years now, and recently, I have discovered fl
 
 ### Stoodee 
 
-### A simple mobile app designed to help you, by systematizing and simplyfying your studying.
+### A simple mobile app designed to help you, by systematizing and simplifying your studying.
 
-Stoode introduces a reward system by awarding you achievements:
+Stoodee introduces a reward system by awarding you achievements:
 
 <img src="https://github.com/Kenayv/kenayv/blob/main/stoodeAchievementsNoBG.png" alt="Achievement page" height="450" width="210"/>
 
-and optimizes your dopamine rush by keeping track of your daily learning streak and emphasises consistency by reminding you, that it's time to study:
+And optimizes your dopamine rush by keeping track of your daily learning streak and emphasizes consistency by reminding you, that it's time to study:
 
 <img src="https://github.com/Kenayv/kenayv/blob/main/stoodeDopamine.png" alt="Home page" height="450" width="210"/>
 
 # 📩 Feel free to reach out! 📩
-### You can reach me by gmail: grosicki.jan@gmail.com
+### You can reach me by Gmail: grosicki.jan@gmail.com
 I will respond!
 
   
